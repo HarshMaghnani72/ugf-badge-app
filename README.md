@@ -110,8 +110,8 @@ You need two kinds of test tokens:
 
 Useful faucets:
 
-- Base Sepolia ETH: `https://www.coinbase.com/faucets/base-ethereum-sepolia-faucet`
-- Base Sepolia ETH: `https://faucet.quicknode.com/base`
+https://sepolia-faucet.pk910.de/
+https://superbridge.app/base-sepolia
 - UGF Mock USD: `https://universalgasframework.com/faucets`
 
 ## Install
